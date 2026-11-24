@@ -1,0 +1,19 @@
+# Environments / IDE
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local, not part of the repo
+*.pdf
+main.py
+
+# Downloaded data (regenerate with fetch.py)
+data/*.parquet
+data/*.csv

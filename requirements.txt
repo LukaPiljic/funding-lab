@@ -1,0 +1,7 @@
+requests
+pandas
+pyarrow
+numpy
+matplotlib
+pytest
+# nautilus_trader is installed separately (Python 3.13+, needs --pre), see README
