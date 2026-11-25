@@ -4,8 +4,8 @@
 
 ## Repo deliverables
 
-- [ ] `funding_lab/funding.py`
-- [ ] `tests/test_funding.py`
+- [x] `funding_lab/funding.py`
+- [x] `tests/test_funding.py`
 
 ## Notes
 
